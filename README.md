@@ -48,7 +48,7 @@ A smart door lock system built using Arduino UNO. The system detects a person us
 ### Schematic
 ![Schematic](Circuit/Schematic.jpeg)
 
----
+- **Tinkercad Simulation:** https://www.tinkercad.com/things/hucc4F73z2d-incredible-bojo
 
 ## 🎥 Demo
 
@@ -56,6 +56,17 @@ The project demonstration video is available here:
 
 [▶️ Watch Demo](Videos/demo1.mp4)
 [▶️ Watch Demo](Videos/demo2.mp4)
+
+## 📂 Project Structure
+
+Smart-Door-Lock-Arduino
+├── Smart_Door_Lock.ino
+├── README.md
+├── Images/
+├── Videos/
+└── Circuit/
+
+---
 
 ## 🔑 Password
 
