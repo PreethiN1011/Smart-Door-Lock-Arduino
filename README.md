@@ -39,26 +39,23 @@ A smart door lock system built using Arduino UNO. The system detects a person us
 ![Hardware](Images/working1.jpg)
 ![Hardware](Images/working2.jpg)
 
+
+## 🔌 Circuit
+
 ### Tinkercad Circuit
 ![Circuit](Circuit/Tinkercad_Circuit.png.jpeg)
 
 ### Schematic
 ![Schematic](Circuit/Schematic.jpeg)
 
-## 🔌 Circuit
-
-- Tinkercad Circuit
-- Circuit Schematic
-
-(Both are available in the **Circuit** folder.)
-
 ---
 
 ## 🎥 Demo
 
-Project demonstration video is available in the **Videos** folder.
+The project demonstration video is available here:
 
----
+[▶️ Watch Demo](Videos/demo1.mp4)
+[▶️ Watch Demo](Videos/demo2.mp4)
 
 ## 🔑 Password
 
