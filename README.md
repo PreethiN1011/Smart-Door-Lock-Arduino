@@ -4,18 +4,6 @@
 A smart door lock system built using Arduino UNO. The system detects a person using an ultrasonic sensor and allows access only after entering the correct password through a 4x4 keypad.
 
 ---
-## 📷 Project Images
-
-### Hardware Setup
-![Hardware](Images/working.jpg)
-
-### Tinkercad Circuit
-![Circuit](Circuit/Tinkercad_Circuit.png)
-
-### Schematic
-![Schematic](Circuit/Schematic.png)
-
----
 
 # ✨ Features
 
@@ -47,9 +35,14 @@ A smart door lock system built using Arduino UNO. The system detects a person us
 
 ## 📷 Project Images
 
-(Your uploaded images are in the **Images** folder.)
+### Hardware Setup
+![Hardware](Images/working.jpg)
 
----
+### Tinkercad Circuit
+![Circuit](Circuit/Tinkercad_Circuit.png)
+
+### Schematic
+![Schematic](Circuit/Schematic.png)
 
 ## 🔌 Circuit
 
